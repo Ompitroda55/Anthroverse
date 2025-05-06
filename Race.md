@@ -154,6 +154,92 @@ Thus, in reality, there are only **two major types** of criteria used for racial
 
 ---
 
+## Distribution of Blood Groups
+
+### Overview of ABO Blood Group Distribution
+* The most comprehensive data on **gene distribution** pertains to the **ABO blood groups**.
+* Global frequency estimates for **ABO blood group genes**:
+  * **G<sup>a</sup>**: 62.3 percent
+  * **G<sup>b</sup>**: 21.5 percent
+  * **G<sup>o</sup>**: 16.2 percent
+* **Regional variations**: Frequencies vary significantly across different regions, complicating **racial classification**.
+
+### Regional Patterns of G<sup>o</sup> Gene Distribution
+* **American Indians**:
+  * In some areas, populations are almost entirely **G<sup>o</sup>**, with minimal **G<sup>a</sup>** or **G<sup>b</sup>**.
+  * **G<sup>o</sup>** is prevalent among **indigenous Amerindians**, including **Eskimos**, though **Eskimos** have higher frequencies of **A** and **B**.
+* **Western Europe**:
+  * **G<sup>o</sup>** is common but drops to its lowest frequency (around 40–50 percent) in **Central Asia**.
+* **Mongoloid Grouping**:
+  * **Asiatics** and **Amerindians** are traditionally classified as **Mongoloid**, despite differing **G<sup>o</sup>** frequencies.
+  * This discrepancy highlights challenges in creating clear-cut **racial divisions** based on **blood group alleles**.
+
+### Distribution of G<sup>b</sup> Gene
+* **Pattern**:
+  * The **G<sup>b</sup> gene** distribution is generally the inverse of **G<sup>o</sup>**.
+  * It is relatively common in **Central Asia** but rare among **indigenous populations of America**.
+* **Cline**:
+  * A steady decrease in **G<sup>b</sup>** frequency occurs from **Central Asia** to **Western Europe**.
+  * The lowest **G<sup>b</sup>** frequency is found in the **Basque population**, where **G<sup>o</sup>** is very high.
+* **Basque Population**:
+  * Characterized by:
+    * High **G<sup>o</sup>** frequency.
+    * Low **G<sup>b</sup>** frequency.
+    * High frequencies of **Rh negative genes**.
+    * A distinctive **non-Indo-European language**.
+
+### Other Populations with Similar Patterns
+* Populations in **Western Europe** (e.g., **Ireland**) also show:
+  * Low **G<sup>b</sup>** frequencies.
+  * High **G<sup>o</sup>** frequencies.
+
+### Challenges in Racial Classification
+* The varied distribution of **blood group alleles** (e.g., **G<sup>o</sup>** and **G<sup>b</sup>**) underscores the difficulty of defining **racial categories**.
+* While there is some correlation between **blood group allele distribution** and **major racial groupings**, exceptions (e.g., **Mongoloid** classification) demonstrate the complexity of **racial classification**.## Distribution of Blood Groups
+
+### Overview of ABO Blood Group Distribution
+* The most comprehensive data on **gene distribution** pertains to the **ABO blood groups**.
+* Global frequency estimates for **ABO blood group genes**:
+  * **G<sup>a</sup>**: 62.3 percent
+  * **G<sup>b</sup>**: 21.5 percent
+  * **G<sup>o</sup>**: 16.2 percent
+* **Regional variations**: Frequencies vary significantly across different regions, complicating **racial classification**.
+
+### Regional Patterns of G<sup>o</sup> Gene Distribution
+* **American Indians**:
+  * In some areas, populations are almost entirely **G<sup>o</sup>**, with minimal **G<sup>a</sup>** or **G<sup>b</sup>**.
+  * **G<sup>o</sup>** is prevalent among **indigenous Amerindians**, including **Eskimos**, though **Eskimos** have higher frequencies of **A** and **B**.
+* **Western Europe**:
+  * **G<sup>o</sup>** is common but drops to its lowest frequency (around 40–50 percent) in **Central Asia**.
+* **Mongoloid Grouping**:
+  * **Asiatics** and **Amerindians** are traditionally classified as **Mongoloid**, despite differing **G<sup>o</sup>** frequencies.
+  * This discrepancy highlights challenges in creating clear-cut **racial divisions** based on **blood group alleles**.
+
+### Distribution of G<sup>b</sup> Gene
+* **Pattern**:
+  * The **G<sup>b</sup> gene** distribution is generally the inverse of **G<sup>o</sup>**.
+  * It is relatively common in **Central Asia** but rare among **indigenous populations of America**.
+* **Cline**:
+  * A steady decrease in **G<sup>b</sup>** frequency occurs from **Central Asia** to **Western Europe**.
+  * The lowest **G<sup>b</sup>** frequency is found in the **Basque population**, where **G<sup>o</sup>** is very high.
+* **Basque Population**:
+  * Characterized by:
+    * High **G<sup>o</sup>** frequency.
+    * Low **G<sup>b</sup>** frequency.
+    * High frequencies of **Rh negative genes**.
+    * A distinctive **non-Indo-European language**.
+
+### Other Populations with Similar Patterns
+* Populations in **Western Europe** (e.g., **Ireland**) also show:
+  * Low **G<sup>b</sup>** frequencies.
+  * High **G<sup>o</sup>** frequencies.
+
+### Challenges in Racial Classification
+* The varied distribution of **blood group alleles** (e.g., **G<sup>o</sup>** and **G<sup>b</sup>**) underscores the difficulty of defining **racial categories**.
+* While there is some correlation between **blood group allele distribution** and **major racial groupings**, exceptions (e.g., **Mongoloid** classification) demonstrate the complexity of **racial classification**.
+
+---
+
 ## Dermatoglyphics and Criteria for Racial Classification
 
 ### Introduction to Dermatoglyphics
