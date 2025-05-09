@@ -1,2 +1,2 @@
 # Anthroverse
-Markdown file of Anthropology Books
+Markdown file of Anthropology Notes
