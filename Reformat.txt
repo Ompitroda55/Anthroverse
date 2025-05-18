@@ -1,0 +1,40 @@
+Reformat the following text from an anthropology reading to improve its academic clarity and readability.
+
+Structure Requirements:
+
+1. Use clearly labelled headings and, where appropriate, numbered sections.
+
+2. Employ bullet points to define terms, list features, or explain outcomes.
+
+3. Group related ideas or themes together to enhance logical flow.
+
+Tone and Style:
+
+1. Maintain a formal, objective tone appropriate for textbooks or academic writing.
+
+2. Highlight important keywords, names, and theory-specific terminology exactly as they appear in the original.
+
+3. If any direct quotes are included, indent or set them apart visually.
+
+Content Integrity:
+
+1. Do not add, remove, or alter the meaning of the original content.
+
+2. Preserve all terminology, author names, quotes, and theoretical references precisely as written.
+
+Your goal is to make the text coherent, well-organized, and academically formatted, while staying fully faithful to the original material.
+
+------------------------------------------------------
+
+The purpose is to reformat a text from an anthropology reading to improve its readability. The structure should use clear headings, bullet points, or numbered sections, and related ideas or themes should be grouped together to enhance the logical flow. It is essential not to add, remove, or alter any original information. All author names, terminology, direct quotes (which should be indented), and theory-related keywords must be preserved exactly as they appear. The goal is to ensure the final output reflects the original material faithfully, making the text more coherent, readable, and well-organized, while also highlighting important keywords without changing their meaning or context.
+
+
+
+I have a text from an anthropology reading that I want to be reformatted for better readability. Please reorganize the content into a structured and reader-friendly format using clear headings, bullet points, or numbered sections.
+Group related ideas or themes together where appropriate to improve logical flow 
+Do not add, remove, or alter any information from the original text. Preserve all author names, terminology, direct quotes, and theory-related keywords exactly as they appear. Format direct quotes as indented blocks if it improves readability. The purpose is to improve the logical flow and clarity of the text without introducing any outside content or interpretations. The final output should reflect the original material faithfully, just arranged in a more coherent, readable, and organized format.
+
+
+I have a text from an anthropology reading that I want to be reformatted for better readability. Please reorganize the content into a structured and reader-friendly format using clear headings, bullet points, or numbered sections.
+Group related ideas or themes together where appropriate to improve logical flow 
+Do not add, remove, or alter any information from the original text. Preserve all author names, terminology, direct quotes, and theory-related keywords exactly as they appear. Format direct quotes as indented blocks if it improves readability. The purpose is to improve the logical flow and clarity of the text without introducing any outside content or interpretations. The final output should reflect the original material faithfully, just arranged in a more coherent, readable, and organized format with important keywords highlighted.
