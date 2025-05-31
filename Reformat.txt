@@ -1,28 +1,16 @@
-Reformat the following text from an anthropology reading to improve its academic clarity and readability.
+I have a passage from a history textbook that I want to be reformatted for better readability. Please reorganize the content into a clear, structured, and reader-friendly format using descriptive headings, bullet points, or numbered sections. Group related events, figures, and themes together where appropriate to improve logical flow.
 
-Structure Requirements:
+Do not add, remove, or alter any information from the original text.
 
-1. Use clearly labelled headings and, where appropriate, numbered sections.
+Preserve all author names, historical terminology, dates, direct quotes, and key historiographical terms exactly as they appear.
 
-2. Employ bullet points to define terms, list features, or explain outcomes.
+Format direct quotes as indented blocks if it improves readability.
 
-3. Group related ideas or themes together to enhance logical flow.
+Highlight important years, names, and concepts to draw attention without changing the original wording.
 
-Tone and Style:
+The purpose is to enhance the logical flow and clarity of the material without introducing any outside content or interpretations. The final output should faithfully reflect the original passage—just arranged in a more coherent, organized format with critical keywords emphasized.
 
-1. Maintain a formal, objective tone appropriate for textbooks or academic writing.
 
-2. Highlight important keywords, names, and theory-specific terminology exactly as they appear in the original.
-
-3. If any direct quotes are included, indent or set them apart visually.
-
-Content Integrity:
-
-1. Do not add, remove, or alter the meaning of the original content.
-
-2. Preserve all terminology, author names, quotes, and theoretical references precisely as written.
-
-Your goal is to make the text coherent, well-organized, and academically formatted, while staying fully faithful to the original material.
 
 ------------------------------------------------------
 
