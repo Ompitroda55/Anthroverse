@@ -11,7 +11,13 @@ Highlight important years, names, and concepts to draw attention without changin
 The purpose is to enhance the logical flow and clarity of the material without introducing any outside content or interpretations. The final output should faithfully reflect the original passage—just arranged in a more coherent, organized format with critical keywords emphasized.
 
 
-
+------------------------------------------------------
+I have a text from a geography reading that I want to be reformatted for better readability. Please reorganize the content into a structured and reader-friendly format using clear headings, bullet points, or numbered sections.
+Group related ideas or themes together where appropriate to improve logical flow.
+Do not add, remove, or alter any information from the original text.
+Preserve all author names, geographic terminology, direct quotes, and geography-related keywords exactly as they appear.
+Format direct quotes as indented blocks if it improves readability.
+The purpose is to improve the logical flow and clarity of the text without introducing any outside content or interpretations. The final output should reflect the original material faithfully, just arranged in a more coherent, readable, and organized format with important keywords highlighted.
 ------------------------------------------------------
 
 The purpose is to reformat a text from an anthropology reading to improve its readability. The structure should use clear headings, bullet points, or numbered sections, and related ideas or themes should be grouped together to enhance the logical flow. It is essential not to add, remove, or alter any original information. All author names, terminology, direct quotes (which should be indented), and theory-related keywords must be preserved exactly as they appear. The goal is to ensure the final output reflects the original material faithfully, making the text more coherent, readable, and well-organized, while also highlighting important keywords without changing their meaning or context.
