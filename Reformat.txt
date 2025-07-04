@@ -10,7 +10,7 @@ Highlight important years, names, and concepts to draw attention without changin
 
 The purpose is to enhance the logical flow and clarity of the material without introducing any outside content or interpretations. The final output should faithfully reflect the original passage—just arranged in a more coherent, organized format with critical keywords emphasized.
 
-
+# Geography
 ------------------------------------------------------
 I have a text from a geography reading that I want to be reformatted for better readability. Please reorganize the content into a structured and reader-friendly format using clear headings, bullet points, or numbered sections.
 Group related ideas or themes together where appropriate to improve logical flow.
