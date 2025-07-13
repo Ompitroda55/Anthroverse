@@ -20,6 +20,26 @@ Format direct quotes as indented blocks if it improves readability.
 The purpose is to improve the logical flow and clarity of the text without introducing any outside content or interpretations. The final output should reflect the original material faithfully, just arranged in a more coherent, readable, and organized format with important keywords highlighted.
 ------------------------------------------------------
 
+# Econocics
+------------------------------------------------------
+I have a text from an economics reading that I want to be reformatted for better readability. Please reorganize the content into a structured and reader-friendly format using clear headings, bullet points, or numbered sections. Group related ideas or themes together where appropriate to improve logical flow.
+
+Do not add, remove, or alter any information from the original text. Preserve all:
+
+Author names and economist references (e.g., Dadabhai Naoroji, William Digby, V.K.R.V. Rao)
+Economic terminology and concepts (e.g., GDP, per capita income, demographic transition, zamindari system)
+Statistical data and figures exactly as presented
+Direct quotes and historical references
+Economic policy names and historical periods
+Company names and industrial references (e.g., TISCO, Tata Airlines)
+Geographic locations and regional economic data
+Government policies and colonial administrative terms
+Format direct quotes and historical excerpts as indented blocks if it improves readability. Highlight important economic indicators, policy terms, and key concepts for emphasis. The purpose is to improve the logical flow and clarity of the text without introducing any outside content or interpretations.
+
+The final output should reflect the original material faithfully, just arranged in a more coherent, readable, and organized format with important economic concepts and data highlighted for study purposes.
+
+------------------------------------------------------
+
 The purpose is to reformat a text from an anthropology reading to improve its readability. The structure should use clear headings, bullet points, or numbered sections, and related ideas or themes should be grouped together to enhance the logical flow. It is essential not to add, remove, or alter any original information. All author names, terminology, direct quotes (which should be indented), and theory-related keywords must be preserved exactly as they appear. The goal is to ensure the final output reflects the original material faithfully, making the text more coherent, readable, and well-organized, while also highlighting important keywords without changing their meaning or context.
 
 
