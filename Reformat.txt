@@ -39,7 +39,43 @@ Format direct quotes and historical excerpts as indented blocks if it improves r
 The final output should reflect the original material faithfully, just arranged in a more coherent, readable, and organized format with important economic concepts and data highlighted for study purposes.
 
 ------------------------------------------------------
+Economics Book -> Novel Katha
+------------------------------------------------------
+Transform my academic chapter into compelling historical fiction using this framework:
+Character Creation (3-5 characters)
+Create characters representing different chapter themes:
+* Protagonist: Mirrors the chapter's main timeline
+* Supporting Cast: Each represents a specific sector/region/social class
+* Conflict Source: Historical forces creating challenges
+* Mentor: Provides context and explanations
+Three-Act Structure
+* Act I: "Before" - Original circumstances, foreshadow changes
+* Act II: "Transformation" - Major events unfold, characters experience impact
+* Act III: "After" - Deal with consequences, show long-term effects
+Storytelling Techniques
+* Natural Dialogue: Characters explain concepts through conversations and debates
+* Vivid Scenes: Show historical settings with sensory details
+* Emotional Hooks: Convert statistics into personal stories (e.g., "32-year life expectancy" becomes family tragedy)
+* Educational Integration: Weave facts through letters, journal entries, flashbacks
+Conversion Process
+For each chapter section:
+1. Identify main theme/concept
+2. Create character whose life illustrates this theme
+3. Develop personal conflict mirroring historical situation
+4. Write scenes showing concept in action
+5. Add dialogue explaining facts naturally
+6. Include emotional stakes for memorability
+Requirements
+* Maintain 100% academic accuracy
+* Preserve all key concepts and learning objectives
+* Use period-appropriate language and details
+* Structure chapters corresponding to academic sections
+* Include cliffhangers between chapters
+Application Command
+"Transform [CHAPTER TITLE] into historical fiction, creating characters representing [main themes], set in [time/location], focusing on [learning objectives]. Maintain all factual content while making it emotionally engaging through personal stories."
+Success Goal: Students learn through story while retaining all academic content.
 
+------------------------------------------------------
 The purpose is to reformat a text from an anthropology reading to improve its readability. The structure should use clear headings, bullet points, or numbered sections, and related ideas or themes should be grouped together to enhance the logical flow. It is essential not to add, remove, or alter any original information. All author names, terminology, direct quotes (which should be indented), and theory-related keywords must be preserved exactly as they appear. The goal is to ensure the final output reflects the original material faithfully, making the text more coherent, readable, and well-organized, while also highlighting important keywords without changing their meaning or context.
 
 
