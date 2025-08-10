@@ -383,24 +383,6 @@ The Indian Constitution represents a unique achievement because:
 
 ---
 
-## Review Exercises
-
-### Multiple Choice Questions
-
-**Question 1**: Which of these is not a function of the constitution?
-a. It gives a guarantee of the rights of the citizen
-b. It marks out different spheres of power for different branches of government
-c. It ensures that good people come to power
-d. It gives expression to some shared values
-
-**Question 2**: Which of the following is a good reason to conclude that the authority of the constitution is higher than that of the parliament?
-a. The constitution was framed before the parliament came into being
-b. The constitution makers were more eminent leaders than the members of the parliament
-c. The constitution specifies how parliament is to be formed and what are its powers
-d. The constitution cannot be amended by the parliament
-
----
-
 ## Key Terms and Concepts
 
 **Constitutional Functions**: Coordination, Decision-making powers, Limitations on government, Aspirations and goals, Fundamental identity
@@ -851,41 +833,6 @@ Judicial interpretations have **expanded the scope of rights** in many respects.
 
 ### Democratic Governance
 **Rights enforce limitations** on the functioning of the government and ensure **democratic governance** of the country.
-
----
-
-## Study Questions and Activities
-
-### Comparative Analysis Exercise
-**Compare the Fundamental Rights in the Indian Constitution with the Bill of Rights in the South African Constitution. Make a list of rights that are:**
-- Common to both constitutions
-- Available in South Africa but not in India  
-- Clearly granted in South Africa but implicit in the Indian Constitution
-
-### Case Study Analysis: Urban Homelessness
-**Scenario**: It is estimated that there are about three million urban homeless in India. Night shelters are not available for more than five percent of this population. Hundreds of old, sick homeless people are killed by cold wave during winter. They cannot have ration and voting cards in absence of 'proof of residence'. Without these documents they cannot avail government help as needy patients. Many are casual workers earning very low wages who travel to cities from different parts of the country.
-
-**Task**: Write a petition to the Supreme Court of India under Right to Constitutional Remedies mentioning:
-1. What Fundamental Rights are being denied to homeless in their everyday life?
-2. What kind of order would you request the Supreme Court to issue?
-
-### Critical Thinking Exercise: Rights vs. Directive Principles
-**Read the main points of the Bill of Rights in the South African Constitution and the Directive Principles in India.**
-- Which are the common points in the two lists?
-- Why did the South African Constitution put these in the Bill of Rights?
-- If you were writing the constitution for a new country, what would you suggest?
-
-### Practical Application: Religious Freedom in Local Context
-**Activity**: Make a list of public religious activities that take place in your village or city.
-- Which of these involve an exercise of right to religious freedom?
-- Discuss what could have happened if this right was not available to people in your locality.
-
-### Constitutional Scenarios Analysis
-**Evaluate whether the following situations demand restrictions on right to freedom (give reasons):**
-1. People have assembled for a peace march after communal riots in the city
-2. Dalits are denied entry in a temple. A march is being organised to forcibly enter the temple  
-3. Hundreds of Adivasis blocked the road demanding that land taken from them for industry be returned
-4. A caste panchayat is meeting to decide punishment to a young couple for marrying outside their caste
 
 ---
 
@@ -1405,60 +1352,6 @@ Election system has allowed voters to:
 
 ---
 
-## Activities for Understanding
-
-### Activity 1: Mock Elections
-Hold class elections using three different methods:
-1. Each student one vote, four highest winners elected
-2. Each student four votes (can split or concentrate), four highest winners elected  
-3. Preference ranking system following Rajya Sabha method
-
-**Analysis:** Did same four persons win each time? What differences emerged and why?
-
-### Activity 2: Research Project
-Collect information on election systems from:
-- Election Commission of India website (https://eci.gov.in)
-- ACE Project (http://aceproject.org)
-
-**Categories for Analysis:**
-- System of representation
-- Voter eligibility  
-- Role of Election Commission
-
-**Scope:** Compare at least four countries' electoral systems.
-
-### Activity 3: Case Study Analysis
-
-**Tamil Nadu Assembly Election 2016 Results:**
-
-| Party | % of Total Votes | Number of Seats |
-|-------|------------------|-----------------|
-| AIADMK | 40.77 | 135 |
-| DMK | 31.64 | 88 |
-| INC | 6.42 | 8 |
-| PMK | 5.32 | 0 |
-| BJP | 2.84 | 0 |
-| DMDK | 2.39 | 0 |
-| CPI | 0.79 | 0 |
-| IUML | 0.73 | 1 |
-| Other Parties | 6.37 | 0 |
-| Independents | 1.43 | 0 |
-| NOTA | 1.30 | - |
-
-**Analysis Questions:**
-- What would be Assembly composition under PR system like Israel?
-- Which party would have majority?
-- Who would form government?
-- What effect on political party relationships?
-
----
-
-## Conclusion: Democracy Through Representative Elections
-
-In countries practicing representative democracy, elections and their representative character are crucial factors in making democracy effective and trustworthy. The Indian electoral system demonstrates that constitutional provisions, when combined with independent institutions and democratic culture, can create a framework for sustained democratic governance while remaining adaptable to evolving democratic aspirations.
-
----
-
 # Chapter 4: Executive
 ## Indian Constitution at Work
 
@@ -1904,33 +1797,6 @@ The modern executive is a very powerful institution of government. The executive
 *R K Laxman in The Times of India*
 
 "This Chief Minister is not happy even after winning the confidence motion! Can you imagine why this is so?"
-
----
-
-## Review Exercises
-
-### Exercise 1: Multiple Choice
-A parliamentary executive means:
-a. Executive where there is a parliament
-b. Executive elected by the parliament
-c. Where the parliament functions as the Executive
-d. Executive that is dependent on support of the majority in the parliament
-
-### Exercise 2: Dialogue Analysis
-Read this dialogue. Which argument do you agree with? Why?
-
-**Amit**: "Looking at the constitutional provisions, it seems that the President is only a rubber stamp."
-
-**Shama**: "The President appoints the Prime Minister. So, he must have the powers to remove the Prime Minister as well."
-
-**Rajesh**: "We don't need a President. After the election, the Parliament can meet and elect a leader to be the Prime Minister."
-
-### Activity: International Summit Analysis
-Procure a photograph of the SAARC summit meeting or the meeting of G-7 countries and list those who attended the meeting. Can you imagine why those people and not some others are attending the meeting?
-
----
-
-*This chapter provides a comprehensive understanding of the executive branch in the Indian constitutional framework, emphasizing the balance between power and accountability that characterizes India's parliamentary democracy.*
 
 ---
 
@@ -2609,33 +2475,6 @@ But we have seen in this chapter that these same parliamentarians can effectivel
 
 ---
 
-## STUDY QUESTIONS FOR REVISION
-
-### Conceptual Understanding
-1. Why is a bicameral legislature considered advantageous for a diverse country like India?
-2. How does the composition of Rajya Sabha differ from the principle followed in the US Senate?
-3. What makes the Lok Sabha more powerful than the Rajya Sabha in certain areas?
-4. Why is parliamentary privilege essential for the functioning of democracy?
-
-### Analytical Questions
-1. Analyze the effectiveness of parliamentary control over the executive in the Indian system.
-2. Evaluate the role of the committee system in enhancing parliamentary efficiency.
-3. Assess the impact of the anti-defection law on parliamentary democracy.
-4. Compare the powers of Lok Sabha and Rajya Sabha in different spheres of governance.
-
-### Critical Thinking
-1. "Parliament has declined in importance compared to the executive." Examine this statement.
-2. How can parliamentary procedures be reformed to make discussions more meaningful?
-3. What are the challenges facing parliamentary democracy in the contemporary period?
-4. Should the anti-defection law be modified? Give reasons for your answer.
-
-### Case Study Analysis
-1. Analyze the newspaper reports provided in the chapter and explain how they demonstrate parliamentary control over the executive.
-2. Study the German bicameral system and compare it with the Indian parliamentary system.
-3. Examine specific instances where joint sessions of Parliament were called and their outcomes.
-
----
-
 ## IMPORTANT CONSTITUTIONAL PROVISIONS
 
 ### Article 109: Money Bills
@@ -2664,7 +2503,7 @@ But we have seen in this chapter that these same parliamentarians can effectivel
 1. **Declining Session Days**: Reduction in the number of sitting days of Parliament
 2. **Disruptions**: Frequent disruptions affecting legislative business
 3. **Committee Effectiveness**: Need to strengthen the committee system
-4. **Coalition Era**: Challenges of law-making in coalition governments
+4. **Coalition Era**: Challenges of lawmaking in coalition governments
 
 ### Recent Developments
 1. **Digital Parliament**: Use of technology in parliamentary proceedings
@@ -4098,19 +3937,6 @@ Both stories represent a larger transformation across India, especially after co
 
 ---
 
-## Key Questions for Reflection
-
-1. How does local government strengthen democracy?
-2. What should the Tamil Nadu Government have done in the Vengaivasal case?
-3. Why did both Nehru and Dr. Ambedkar have reservations about local government bodies?
-4. What was the constitutional provision about local governments before 1992?
-5. Which States established local government during the 1960s and 1970s?
-6. Why are subjects only from State list transferred? Why not Union List subjects?
-7. How can poor State governments provide adequate funding to local governments?
-8. What does the slogan "We are the government here in the village!" represent?
-
----
-
 # Chapter 9: Constitution as a Living Document
 
 ## Introduction
@@ -4937,15 +4763,7 @@ More than five decades since the Constitution was drafted:
 
 ---
 
-## Study Questions
 
-1. **Value-Based Laws:** The following are certain laws. Are they connected with any value? If yes, what is the underlying value? Give reasons.
-   a. Both daughters and sons will have share in the family property.
-   b. There will be different slabs of sales tax on different consumer items.
-   c. Religious instructions will not be given in any government school.
-   d. There shall be no begar or forced labour.
-
----
 
 ## Key Terms and Concepts
 
